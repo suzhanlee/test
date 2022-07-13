@@ -13,6 +13,8 @@ class solution {
 
 
 
+
+
             for(int j=0; j < arr.length ; j++){
 
                 if(arr[j] != arr[arr.length -1 - i]){
