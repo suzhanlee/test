@@ -21,6 +21,9 @@ class solution {
                 }
             }
 
+
+
+
             if(isPali == true){
                 answer++;
             }
